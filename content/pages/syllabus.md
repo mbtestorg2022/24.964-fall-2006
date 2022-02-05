@@ -34,32 +34,205 @@ Grading and Requirements
 *   One presentation on readings
 *   Final paper related to the topic of the course
 
-| REQUIREMENTS | PERCENTAGES |
-| --- | --- |
-| Class participation | 10% |
-| Presentation | 10% |
-| Final paper | 80% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+REQUIREMENTS
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class participation
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Presentation
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final paper
+{{< tdclose >}}
+{{< tdopen >}}
+80%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Calendar
 --------
 
-| SES # | TOPICS |
-| --- | --- |
-| {{< td-colspan 2 >}}**Introduction**{{< /td-colspan >}} ||
-| 1 | Phonetic realization |
-| {{< td-colspan 2 >}}**Does language-specific phonetics affect phonology?**{{< /td-colspan >}} ||
-| 2 | Contour tones |
-| 3 | Syllable weight |
-| 4 | Stop voicing and bursts |
-| {{< td-colspan 2 >}}**Models of phonetic realization**{{< /td-colspan >}} ||
-| 5 | Rules and constraints |
-| 6 | Implications of phonetic detail for phonological analyses |
-| {{< td-colspan 2 >}}**Articulatory phonology**{{< /td-colspan >}} ||
-| 7 | Articulatory phonology |
-| 8 | Releases and transitions |
-| {{< td-colspan 2 >}}**Tone**{{< /td-colspan >}} ||
-| 9 | Tone |
-| {{< td-colspan 2 >}}**Stop bursts, consonant releases, etc.**{{< /td-colspan >}} ||
-| 10 | Releases and transitions (cont.) |
-| {{< td-colspan 2 >}}**Too many solutions**{{< /td-colspan >}} ||
-| 11 | Phonetic detail and the "too many solutions" problem
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Introduction**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Phonetic realization
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Does language-specific phonetics affect phonology?**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Contour tones
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Syllable weight
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Stop voicing and bursts
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Models of phonetic realization**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Rules and constraints
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Implications of phonetic detail for phonological analyses
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Articulatory phonology**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Articulatory phonology
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Releases and transitions
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Tone**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Tone
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Stop bursts, consonant releases, etc.**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Releases and transitions (cont.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Too many solutions**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Phonetic detail and the "too many solutions" problem
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

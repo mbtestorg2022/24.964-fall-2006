@@ -36,7 +36,7 @@ Phonetic realization
 {{< tdopen >}}
 
 
-Flemming, Edward. "Phonetic Optimization: Compromise in Speech Production." _University of Maryland Working Papers in Linguistics 5: Selected Phonology Papers from H-OT-97_ (1997): 72-91. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://web.mit.edu/flemming/www/paper/ot.pdf))
+Flemming, Edward. "Phonetic Optimization: Compromise in Speech Production." _University of Maryland Working Papers in Linguistics 5: Selected Phonology Papers from H-OT-97_ (1997): 72-91. ([PDF](http://web.mit.edu/flemming/www/paper/ot.pdf))
 
 Keating, P. A. "Universal Phonetics and The Organization of Grammars." In _Phonetic Linguistics: Essays in Honor of Peter Ladefoged_. Edited by V. Fromkin. Orlando, FL: Academic Press, 1985, pp. 115-132. ISBN: 9780122689901.
 
@@ -96,11 +96,11 @@ Stop voicing and bursts
 {{< tdopen >}}
 
 
-Jun, Jongho. "Positional Faithfulness, Sympathy and Inferred Input." Ms, Yeungnam University, 2002. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://ling.snu.ac.kr/jun/work/inferred.pdf))
+Jun, Jongho. "Positional Faithfulness, Sympathy and Inferred Input." Ms, Yeungnam University, 2002. ([PDF](http://ling.snu.ac.kr/jun/work/inferred.pdf))
 
 ———. "A Perception-Based Analysis of Place Assimilation." In _Phonetically-Based Phonology_. Edited by Robert Kirchner, Bruce Hayes, and Donca Steriade. New York, NY: Cambridge University Press, 2004. ISBN: 9780521825788.
 
-———. _Perceptual and Articulatory Factors in Place Assimilation: An Optimality Theoretic Approach_. PhD dissertation, UCLA, 1995, chapter 2. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://ling.snu.ac.kr/jun/work/phd/ch2.pdf))
+———. _Perceptual and Articulatory Factors in Place Assimilation: An Optimality Theoretic Approach_. PhD dissertation, UCLA, 1995, chapter 2. ([PDF](http://ling.snu.ac.kr/jun/work/phd/ch2.pdf))
 
 Kawahara, Shigeto. "A Faithfulness Ranking Projected from a Perceptibility Scale: The Case of \[+ voice\] in Japanese." _Language_ 82, no. 3 (September 2006).
 
@@ -124,7 +124,7 @@ Rules and constraints
 {{< tdopen >}}
 
 
-Flemming, Edward. "Scalar and Categorical Phenomena in a Unified Model of Phonetics and Phonology." _Phonology_ 18, no. 1 (2001). (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://web.mit.edu/flemming/www/paper/scalar.pdf))
+Flemming, Edward. "Scalar and Categorical Phenomena in a Unified Model of Phonetics and Phonology." _Phonology_ 18, no. 1 (2001). ([PDF](http://web.mit.edu/flemming/www/paper/scalar.pdf))
 
 Cohn, Abigail. "Nasalisation in English: Phonology or Phonetics." _Phonology_ 10 (1993): 43-81.
 
@@ -144,7 +144,7 @@ Implications of phonetic detail for phonological analyses
 
 Lindblom, Björn. "[A Spectrographic Study of Vowel Reduction](http://dx.doi.org/10.1121/1.1918816)." _Journal of the Acoustical Society of America_ 35 (1963): 1773-1781.
 
-Flemming, Edward. "A Phonetically-Based Model of Phonological Vowel Reduction." Unpublished manuscript, Massachusetts Institute of Technology, 2005. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://web.mit.edu/flemming/www/paper/vowelred.pdf))
+Flemming, Edward. "A Phonetically-Based Model of Phonological Vowel Reduction." Unpublished manuscript, Massachusetts Institute of Technology, 2005. ([PDF](http://web.mit.edu/flemming/www/paper/vowelred.pdf))
 
 
 {{< tdclose >}}
@@ -249,7 +249,7 @@ Phonetic detail and the "too many solutions" problem
 {{< tdopen >}}
 
 
-Steriade, Donca. "Phonetics In Phonology: The Case of Laryngeal Neutralization." _UCLA Working Papers in Linguistics_ 3 (1997): 25-146. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.linguistics.ucla.edu/people/steriade/papers/phoneticsinphonology.pdf))
+Steriade, Donca. "Phonetics In Phonology: The Case of Laryngeal Neutralization." _UCLA Working Papers in Linguistics_ 3 (1997): 25-146. ([PDF](http://www.linguistics.ucla.edu/people/steriade/papers/phoneticsinphonology.pdf))
 
 ———. "The Phonology of Perceptibility Effects: The P-map and its Consequences for Constraint Organization." 2001. ([DOC](http://www.linguistics.ucla.edu/people/steriade/papers/P-map_for_phonology.doc))
 

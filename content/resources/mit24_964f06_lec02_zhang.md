@@ -7,6 +7,7 @@ description: Lecture notes on how language-specific detail affects phonological 
   segment duration.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/24-964-topics-in-phonology-phonetic-realization-fall-2006/5a14ac997f354ac5a5164418282940db_MIT24_964F06_lec02_zhang.pdf
 file_type: application/pdf
+parent_uid: 09ca9c90-ff88-4173-2b91-de0a7010a255
 resourcetype: Document
 title: Does Language-Specific Detail Affect Phonological Distribution?
 uid: 5a14ac99-7f35-4ac5-a516-4418282940db

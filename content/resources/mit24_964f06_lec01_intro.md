@@ -4,6 +4,7 @@ description: Lecture notes on phonetic realization, phonetic and phonological re
   and language-specific variation.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/24-964-topics-in-phonology-phonetic-realization-fall-2006/6c68f1fc61f03a490b6b602fc4b69608_MIT24_964F06_lec01_intro.pdf
 file_type: application/pdf
+parent_uid: 09ca9c90-ff88-4173-2b91-de0a7010a255
 resourcetype: Document
 title: Phonetic Realization
 uid: 6c68f1fc-61f0-3a49-0b6b-602fc4b69608

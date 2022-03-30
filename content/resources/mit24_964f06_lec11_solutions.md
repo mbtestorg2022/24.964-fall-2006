@@ -5,6 +5,7 @@ description: Lecture notes on phonetic detail, the 'Too Many Solutions' Problem,
   backness.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/24-964-topics-in-phonology-phonetic-realization-fall-2006/fa4e00ab70a43770a4a22d6fa129226d_MIT24_964F06_lec11_solutions.pdf
 file_type: application/pdf
+parent_uid: 09ca9c90-ff88-4173-2b91-de0a7010a255
 resourcetype: Document
 title: Phonetic Detail and the 'Too Many Solutions' Problem
 uid: fa4e00ab-70a4-3770-a4a2-2d6fa129226d
